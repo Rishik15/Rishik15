@@ -13,7 +13,7 @@ I’m currently looking for opportunities where I can apply machine learning in 
 
 ## Resume & Portfolio
 
-- [![Resume](https://img.shields.io/badge/Resume-PDF-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=blue)](https://raw.githubusercontent.com/Rishik15/Rishik15/main/resume.pdf)
+- [![Resume](https://img.shields.io/badge/Resume-PDF-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=blue)](https://raw.githubusercontent.com/Rishik15/Rishik15/main/RishikReddyYesgari_Resume.pdf)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blueviolet?style=flat&logo=vercel)](https://rishik-portfolio-chi.vercel.app/)
 
 ## Let's Connect
