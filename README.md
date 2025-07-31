@@ -5,26 +5,16 @@ I'm passionate about technology, coding, and building awesome things.
 
 ## About Me
 
-- 🌱 Currently learning: Always exploring new tech!
-- 💼 Working on: Exciting personal and open-source projects.
-- 🤝 Looking to collaborate on interesting ideas.
-- 💬 Ask me about anything related to programming, web development, or tech in general.
-- ⚡ Fun fact: I love solving problems and learning new skills.
+Hi, I’m Rishik. I’m a junior at NJIT working toward a career in machine learning. I first got into it during my freshman year while exploring different areas in tech, and it quickly became something I knew I wanted to pursue seriously. Over the past two years, I’ve focused on building a strong foundation in data analysis, model development, and real-world problem solving.
 
-## Technologies & Tools
+Right now, I’m involved in academic research that’s helped me apply machine learning concepts to real world problems. I enjoy breaking down complex ideas, figuring out how things work, and turning that into something useful. Outside that, I’m probably reading a book or collecting bad dad jokes.
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+I’m currently looking for opportunities where I can apply machine learning in a real world setting, grow as an engineer, and contribute to meaningful projects. Feel free to reach out or check out my GitHub or Portfolio to see some of what I’ve worked on.
 
-## GitHub Stats
+## Resume & Portfolio
 
-![Rishik15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishik15&show_icons=true&theme=tokyonight)
+- [![Resume](https://img.shields.io/badge/Resume-PDF-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=blue)](https://raw.githubusercontent.com/Rishik15/Rishik15/main/resume.pdf)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blueviolet?style=flat&logo=vercel)](https://rishik-portfolio-chi.vercel.app/)
 
 ## Let's Connect
 
@@ -33,4 +23,4 @@ I'm passionate about technology, coding, and building awesome things.
 
 ---
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile!
