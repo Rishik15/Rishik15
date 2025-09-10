@@ -5,7 +5,7 @@ I'm passionate about technology, coding, and building awesome things.
 
 ## About Me
 
-Hi, I’m Rishik. I’m a junior at NJIT working toward a career in machine learning. I first got into it during my freshman year while exploring different areas in tech, and it quickly became something I knew I wanted to pursue seriously. Over the past two years, I’ve focused on building a strong foundation in data analysis, model development, and real-world problem solving.
+I’m a junior at NJIT working toward a career in machine learning. I first got into it during my freshman year while exploring different areas in tech, and it quickly became something I knew I wanted to pursue seriously. Over the past two years, I’ve focused on building a strong foundation in data analysis, model development, and real-world problem solving.
 
 Right now, I’m involved in academic research that’s helped me apply machine learning concepts to real world problems. I enjoy breaking down complex ideas, figuring out how things work, and turning that into something useful. Outside that, I’m probably reading a book or collecting dad jokes.
 
